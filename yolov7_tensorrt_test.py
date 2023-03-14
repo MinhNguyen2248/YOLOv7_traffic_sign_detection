@@ -4,6 +4,7 @@ import torch
 import random
 import time
 import numpy as np
+import tensorrt as trt
 from PIL import Image
 from pathlib import Path
 from collections import OrderedDict,namedtuple
